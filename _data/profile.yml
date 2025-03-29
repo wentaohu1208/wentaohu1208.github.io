@@ -26,25 +26,25 @@ short_bio: >-
   </p>
 
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/IMG_3176.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Nanyang Technological University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/NTU.png
   position: >- 
     College of Computing and Data Science <br/>
     M.Eng. Student
   date: Aug. 2023 - present
 - name: Hunan University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/hnu.png
   position: B.S. in Statistics
   date: Sep. 2019 - Jun. 2023
 
 # experience:
 # - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
+#   logo: /assets/images/badges/hnu.png
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
