@@ -30,11 +30,7 @@ h1, h2, h3, h4, h5, h6,
     line-break: unset;
 }
 
-img[src*="/assets/images/badges/"] {
-    width: 200px;
-    height: auto;
-    max-height: 200px;
-}
+
 
 .no-break {
     white-space: nowrap;
