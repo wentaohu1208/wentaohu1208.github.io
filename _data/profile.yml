@@ -23,6 +23,9 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     Hi, I am Wentao Hu, a Master's student in the College of Computing and Data Science (CCDS) at Nanyang Technological University (NTU), advised by <a href="https://personal.ntu.edu.sg/hanwangzhang/" target="_blank">Prof. Hanwang Zhang</a> in <a href="https://mreallab.github.io/" target="_blank">Mreal Lab</a>. Before that, I earned my Bachelor's degree in Statistics from Hunan University(HNU). 
+  </p>
+
+  <p>
     My research interests lie in AIGC and MLLM, including but not limited to video generation and image editing.
   </p>
 
