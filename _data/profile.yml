@@ -26,12 +26,10 @@ short_bio: >-
   </p>
 
   <p>
-    My research interests lie in AIGC and MLLM, including but not limited to video generation and image editing.
+    My research interests lie in AIGC and MLLM, including but not limited to.
     <ul>
-      <li>Developing novel algorithms for text - to - image generation, aiming to improve the semantic consistency and visual quality of generated images.</li>
-      <li>Exploring the integration of multimodal information in large - language models, with the goal of enabling more natural and intelligent human - computer interactions.</li>
-      <li>Researching the application of AIGC in the field of content creation, such as automated story - writing and music composition.</li>
-      <li>Enhancing the interpretability and controllability of MLLMs to address ethical and security concerns.</li>
+      <li>Video Generation.</li>
+      <li>Image Editing.</li>
     </ul>
   </p>
 
