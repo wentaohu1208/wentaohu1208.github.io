@@ -33,7 +33,7 @@ portrait_url: /assets/images/photos/wentao.jpg
 education:
 - name: Nanyang Technological University
   logo: /assets/images/badges/NTU.png
-  logo_class: "education-logo"
+
   position: >- 
     College of Computing and Data Science <br/>
     M.Eng. Student
@@ -42,7 +42,7 @@ education:
   
 - name: Hunan University
   logo: /assets/images/badges/hnu.png
-  logo_class: "education-logo"
+
   position: B.S. in Statistics
   date: Sep. 2019 - Jun. 2023
 
