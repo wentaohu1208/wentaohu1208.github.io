@@ -37,13 +37,13 @@ education:
     College of Computing and Data Science <br/>
     M.Eng. Student
   date: Aug. 2023 - present
-  style: "width: 400px;"
+
   
 - name: Hunan University
   logo: /assets/images/badges/hnu.png
   position: B.S. in Statistics
   date: Sep. 2019 - Jun. 2023
-  style: "width: 400px;"
+
 
 # experience:
 # - name: Peking University
