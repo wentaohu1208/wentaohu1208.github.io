@@ -51,11 +51,11 @@ education:
   date: Sep. 2019 - Jun. 2023
 
 
-# experience:
-# - name: Central Media Technology Institute(Singapore), Huawei 2012 
-#   logo: /assets/images/badges/hnu.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Central Media Technology Institute(Singapore), Huawei 2012 
+  logo: /assets/images/badges/huawei.png
+  position: Research Intern
+  date: Sep. 2019 - Jul. 2021
 
 # awards:
 # - name: Award Name 2
