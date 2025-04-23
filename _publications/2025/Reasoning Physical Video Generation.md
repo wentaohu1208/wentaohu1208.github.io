@@ -14,7 +14,7 @@ cover:          /assets/images/covers/ReasoningPhysicalVideoGeneration.png
 authors:
   - Wang Lin*
   - Liyu Jia*
-  - Wentao Hu*
+  - <strong>Wentao Hu*</strong>
   - Kaihang Pan
   - Zhongqi Yue
   - Jingyuan Chen
