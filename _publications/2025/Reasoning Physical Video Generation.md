@@ -12,11 +12,15 @@ abstract: >-
   We propose an autoregressive-based video generation framework Phys-AR that incorporates a symbolic reasoning process into the generation process, thus maintaining the physical correctness of the generated videos.
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Wang Lin*
+  - Liyu Jia*
+  - Wentao Hu*
+  - Kaihang Pan
+  - Zhongqi Yue
+  - Jingyuan Chen
+  - Fei Wu
+  - Hanwang Zhang
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  arXiv: https://arxiv.org/pdf/2504.15932
+ # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
