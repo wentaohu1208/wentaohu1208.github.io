@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   We completely discard the conventional spatial prior in image representation and introduce a novel discrete visual tokenizer: Self-Consistency Tokenizer (Selftok). Selftok is a SOTA tokenizer that achieves both high-quality reconstruction and high compression bit rate. After representing the training images as Selftok tokens, as a pure AR model, our VLM achieves both SOTA visual comprehension and generation performances.
-cover:          /assets/images/covers/Selftok.png
+cover:          /assets/images/covers/Sefltok.png
 authors:
   - Bohan Wang
   - Zhongqi Yue
