@@ -26,7 +26,7 @@ authors:
   - Kaihang Pan
   - Saining Zhang
   - Liyu Jia
-  - <strong>Wentao Hu</strong>、
+  - <strong>Wentao Hu</strong>
   - Wei Zhao
   - Hanwang Zhang
 
