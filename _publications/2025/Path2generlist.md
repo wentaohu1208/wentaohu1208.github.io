@@ -2,11 +2,11 @@
 title:          "On Path to Multimodal Generalist: Levels and Benchmarks"
 date:           2025-05-01 00:01:00 +0800
 selected:       True
-pub:            "ICML 2025,"
+pub:            "International Conference on Machine Learning(ICML)2025,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2025"
+# pub_date:       "2025"
 
 abstract: >-
   We propose a General-Level framework, inspired by the five-level capability grading mechanisms in the autonomous driving industry, to assess the performance and generality of Multimodal Language Models (MLLMs) across five levels. Central to this framework is the concept of Synergy, which categorizes capabilities based on whether MLLMs preserve synergy across comprehension, generation, and multimodal interactions. To evaluate the comprehensive abilities of various generalists, we present General-Bench, a massive, ever-growing multimodal benchmark that encompasses a broad spectrum of skills, modalities, formats, and capabilities — with over 700 tasks and 325,800 instances.
