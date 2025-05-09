@@ -47,7 +47,9 @@ authors:
 
 
 links:
-  # arXiv: https://arxiv.org/pdf/2504.15932
-  # Project Page: https://selftok-team.github.io/report/
- # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  arXiv: https://arxiv.org/pdf/2504.15932
+  Project Page: https://selftok-team.github.io/report/
+  Leaderboard: https://generalist.top/leaderboard
+  Huggingface Benchmark: https://huggingface.co/General-Level
+  
 ---
