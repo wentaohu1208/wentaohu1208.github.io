@@ -32,7 +32,7 @@ authors:
 
 
 links:
-  arXiv: https://arxiv.org/pdf/2504.15932
+  arXiv: https://arxiv.org/pdf/2505.07538
   Project Page: https://selftok-team.github.io/report/
  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
