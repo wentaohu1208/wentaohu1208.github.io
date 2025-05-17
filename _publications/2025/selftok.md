@@ -34,5 +34,6 @@ authors:
 links:
   arXiv: https://arxiv.org/pdf/2505.07538
   Project Page: https://selftok-team.github.io/report/
+  github: https://github.com/selftok-team/SelftokTokenizer
  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
