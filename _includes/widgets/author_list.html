@@ -41,8 +41,12 @@
 
 {%- endfor -%}
 
-{%- if has_eq_contrib or has_corresponding %}
-<mark>(
+
+
+
+{%- if has_eq_contrib or has_corresponding -%}
+<span style="color: red;">
+(
     {%- if has_eq_contrib -%}
         * <i> co-first authors</i>
     {%- endif -%}
@@ -50,5 +54,6 @@
         {%- if has_eq_contrib -%}, {% endif -%}
         <sup>#</sup> <i> corresponding author</i>
     {%- endif -%}
-)</mark>
+)
+</span>
 {%- endif -%}
