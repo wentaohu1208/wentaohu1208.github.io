@@ -51,5 +51,6 @@ links:
   Project Page: https://selftok-team.github.io/report/
   Leaderboard: https://generalist.top/leaderboard
   Huggingface Benchmark: https://huggingface.co/General-Level
+  新智元: https://mp.weixin.qq.com/s/SlnRGqn6OXAZ--iuPvNVAw
   
 ---
