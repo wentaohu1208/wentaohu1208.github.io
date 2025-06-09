@@ -5,7 +5,7 @@ selected:       True
 pub: "<strong>International Conference on Machine Learning (ICML) 2025 <span style='color:red'>(Spotlight)</span></strong>,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under Review'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 # pub_date:       "2025"
 
 abstract: >-
