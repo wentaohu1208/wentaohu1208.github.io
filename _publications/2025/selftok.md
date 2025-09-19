@@ -6,7 +6,7 @@ pub: "<strong>Conference on Neural Information Processing Systems (NeurIPS) 2025
 # pub_pre:        "Submitted to "
 # pub_post:       'Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2025"
+# pub_date:       "2025"
 
 abstract: >-
   We completely discard the conventional spatial prior in image representation and introduce a novel discrete visual tokenizer: Self-Consistency Tokenizer (Selftok). Selftok is a SOTA tokenizer that achieves both high-quality reconstruction and high compression bit rate. After representing the training images as Selftok tokens, as a pure AR model, our VLM achieves both SOTA visual comprehension and generation performances.
@@ -38,4 +38,5 @@ links:
   机器之心: https://mp.weixin.qq.com/s/bIjg-SSl7lDQrODE-Hx_vQ
  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
+
 
