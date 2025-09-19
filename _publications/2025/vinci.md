@@ -22,7 +22,8 @@ authors:
   - Jingyuan Chen
   - Hanwang Zhang
 links:
-  # arXiv: https://neurips.cc/virtual/2025/poster/116284
+ arXiv: https://neurips.cc/virtual/2025/poster/116284
  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
+
 
