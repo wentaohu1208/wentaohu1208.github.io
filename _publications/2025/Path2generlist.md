@@ -8,8 +8,8 @@ pub: "<strong>International Conference on Machine Learning (ICML) 2025 <span sty
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 # pub_date:       "2025"
 
-abstract: >-
-  We propose a General-Level framework, inspired by the five-level capability grading mechanisms in the autonomous driving industry, to assess the performance and generality of Multimodal Language Models (MLLMs) across five levels. Central to this framework is the concept of Synergy, which categorizes capabilities based on whether MLLMs preserve synergy across comprehension, generation, and multimodal interactions. To evaluate the comprehensive abilities of various generalists, we present General-Bench, a massive, ever-growing multimodal benchmark that encompasses a broad spectrum of skills, modalities, formats, and capabilities — with over 700 tasks and 325,800 instances.
+# abstract: >-
+  # We propose a General-Level framework, inspired by the five-level capability grading mechanisms in the autonomous driving industry, to assess the performance and generality of Multimodal Language Models (MLLMs) across five levels. Central to this framework is the concept of Synergy, which categorizes capabilities based on whether MLLMs preserve synergy across comprehension, generation, and multimodal interactions. To evaluate the comprehensive abilities of various generalists, we present General-Bench, a massive, ever-growing multimodal benchmark that encompasses a broad spectrum of skills, modalities, formats, and capabilities — with over 700 tasks and 325,800 instances.
 cover:          /assets/images/covers/path2generlist.png
 authors:
 - Hao Fei  
@@ -55,3 +55,4 @@ links:
   机器之心: https://mp.weixin.qq.com/s/oHSPDApM0ouNjcL0D-wtbQ
   
 ---
+
