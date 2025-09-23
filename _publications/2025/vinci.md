@@ -2,7 +2,7 @@
 title:          "Vinci: Deep Thinking in Text-to-Image Generation using Unified Model with Reinforcement Learning"
 date:           2025-09-19 00:01:00 +0800
 selected:       True
-pub:            "<strong>Conference on Neural Information Processing Systems (NeurIPS) 2025 <span style='color:red'>(Poster)</span></strong>,"
+pub:            "<strong>NeurIPS 2025<span style='color:red'>(Poster)</span></strong>,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -25,6 +25,7 @@ links:
  arXiv: https://neurips.cc/virtual/2025/poster/116284
  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
+
 
 
 
