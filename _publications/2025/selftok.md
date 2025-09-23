@@ -1,6 +1,6 @@
 ---
 title:          "Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning"
-date:           2025-04-24 00:01:00 +0800
+date:           2025-09-18 00:01:00 +0800
 selected:       True
 pub: "<strong>NeurIPS 2025 <span style='color:red'>(Poster)</span></strong>,"
 # pub_pre:        "Submitted to "
@@ -38,6 +38,7 @@ links:
   机器之心: https://mp.weixin.qq.com/s/bIjg-SSl7lDQrODE-Hx_vQ
  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
+
 
 
 
