@@ -2,7 +2,7 @@
 title:          "On Path to Multimodal Generalist: Levels and Benchmarks"
 date:           2025-05-01 00:01:00 +0800
 selected:       True
-pub: "<strong>International Conference on Machine Learning (ICML) 2025 <span style='color:red'>(Oral)</span></strong>,"
+pub: "<strong>ICML 2025<span style='color:red'>(Oral)</span></strong>,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
@@ -55,4 +55,5 @@ links:
   机器之心: https://mp.weixin.qq.com/s/oHSPDApM0ouNjcL0D-wtbQ
   
 ---
+
 
