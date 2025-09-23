@@ -2,7 +2,7 @@
 title:          "Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning"
 date:           2025-09-18 00:01:00 +0800
 selected:       True
-pub: "<strong>NeurIPS 2025 <span style='color:red'>(Poster)</span></strong>,"
+pub: "<strong><span style='color:red'>NeurIPS 2025(Poster)</span></strong>,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
