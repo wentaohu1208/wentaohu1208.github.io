@@ -14,7 +14,7 @@ cover:          /assets/images/covers/vinci.png
 authors:
   - Wang Lin*
   - <strong>Wentao Hu*</strong>
-  - Liyu Jia*
+  - Liyu Jia
   - Kaihang Pan
   - Zhang Majun
   - Zhou Zhao
@@ -25,6 +25,7 @@ links:
  arXiv: https://neurips.cc/virtual/2025/poster/116284
  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
+
 
 
 
