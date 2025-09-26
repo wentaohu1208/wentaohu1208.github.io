@@ -49,12 +49,13 @@ authors:
 links:
   arXiv: https://arxiv.org/abs/2505.04620
   Project Page: https://selftok-team.github.io/report/
-  Leaderboard: https://generalist.top/leaderboard
-  Huggingface Benchmark: https://huggingface.co/General-Level
+  # Leaderboard: https://generalist.top/leaderboard
+  # Huggingface Benchmark: https://huggingface.co/General-Level
   新智元: https://mp.weixin.qq.com/s/SlnRGqn6OXAZ--iuPvNVAw
   机器之心: https://mp.weixin.qq.com/s/oHSPDApM0ouNjcL0D-wtbQ
   
 ---
+
 
 
 
