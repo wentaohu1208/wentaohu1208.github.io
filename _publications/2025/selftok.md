@@ -34,10 +34,11 @@ authors:
 links:
   arXiv: https://arxiv.org/pdf/2505.07538
   Project Page: https://selftok-team.github.io/report/
-  Code: https://github.com/selftok-team/SelftokTokenizer
+  # Code: https://github.com/selftok-team/SelftokTokenizer
   机器之心: https://mp.weixin.qq.com/s/bIjg-SSl7lDQrODE-Hx_vQ
  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
+
 
 
 
