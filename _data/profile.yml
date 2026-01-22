@@ -35,6 +35,15 @@ portrait_url: /assets/images/photos/wentao_1.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+
+- name: Nanyang Technological University
+  logo: /assets/images/badges/NTU.png
+
+  position: >- 
+    College of Computing and Data Science <br/>
+    M.Eng. Student
+  date: Aug. 2023 - present
+
 - name: Nanyang Technological University
   logo: /assets/images/badges/NTU.png
 
