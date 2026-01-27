@@ -33,13 +33,9 @@ short_bio: >-
     I am currently a Master’s student in the College of Computing and Data Science (CCDS) at 
     Nanyang Technological University (NTU), advised by 
     <a href="https://scholar.google.com/citations?user=YG0DFyYAAAAJ&hl=en" target="_blank">Prof. Hanwang Zhang</a> 
-    in <a href="https://mreallab.github.io/" target="_blank">MReaL Lab</a>.
+    in <a href="https://mreallab.github.io/" target="_blank">MReaL Lab</a>. Before that, I earned my Bachelor’s degree in Statistics from Hunan University (HNU).
   </p>
   
-  <p>
-    Before that, I earned my Bachelor’s degree in Statistics from Hunan University (HNU).
-  </p>
-
 
 
 portrait_url: /assets/images/photos/wentao_1.jpg
@@ -59,9 +55,7 @@ education:
 - name: Nanyang Technological University
   logo: /assets/images/badges/NTU.png
 
-  position: >- 
-    College of Computing and Data Science <br/>
-    M.Eng. Student
+  position: M.Eng. (by Research) in Computer Science
   date: Aug. 2023 - Jan. 2026
 
   
