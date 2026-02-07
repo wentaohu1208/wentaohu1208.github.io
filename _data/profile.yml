@@ -47,9 +47,9 @@ education:
 - name: City Univercity of Hong Kong
   logo: /assets/images/badges/cityu.jpg
 
-  position: >- 
-    Department of Data Science <br/>
-    in coming Ph.D Student
+  position: Ph.D Student at Department of Data Science
+    
+    
   date: Aug. 2026 - Jun. 2030
 
 - name: Nanyang Technological University
@@ -67,7 +67,13 @@ education:
 
 
 experience:
-- name: Huawei Singapore
+
+- name: Squirrel AI Learning
+  logo: /assets/images/badges/squirrelai.jpg
+  position: AI Research Intern
+  date: Mar. 2025 – Now
+
+- name: Huawei Singapore Research Center
   logo: /assets/images/badges/huawei.png
   position: AI Research Intern
   date: Aug. 2024 – May 2025
