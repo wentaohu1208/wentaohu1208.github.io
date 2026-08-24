@@ -2,7 +2,7 @@
 title:          "SkillBrew: Multi-Objective Curation of Skill Banks for LLM Agents"
 date:           2026-05-29 00:01:00 +0800
 selected:       True
-pub:            "<strong><span style='color:red'>EMNLP 2026(Main)</span></strong>,"
+pub:            "<strong><span style='color:red'>EMNLP 2026(Main)</span></strong>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

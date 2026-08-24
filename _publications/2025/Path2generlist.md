@@ -2,7 +2,7 @@
 title:          "On Path to Multimodal Generalist: Levels and Benchmarks"
 date:           2025-05-01 00:01:00 +0800
 selected:       True
-pub: "<strong><span style='color:red'>ICML 2025(Oral)</span></strong>,"
+pub: "<strong><span style='color:red'>ICML 2025(Oral)</span></strong>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'

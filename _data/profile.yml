@@ -8,7 +8,7 @@ navbar_name: "Wentao Hu"
 # - name: Position 2 without logo
 
 
-email: "wentao002@e.ntu.edu.sg"
+email: "wentaohu4-c@my.cityu.edu.hk"
 cv_link: ./assets/wthu_cs_phd_cv.pdf
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: wentaohu1208
@@ -22,17 +22,16 @@ github: wentaohu1208
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi, I am Wentao Hu, an incoming Ph.D. student at the 
-    <a href="https://aml-cityu.github.io/" target="_blank">AML Lab</a>, 
-    City University of Hong Kong, under the supervision of 
-    <a href="https://zhaoxyai.github.io/" target="_blank">Prof. Xiangyu Zhao</a>, 
-    starting in Fall 2026. I also work closely with <a href="https://scholar.google.com/citations?user=vjPJvwYAAAAJ&hl=en/" target="_blank">Prof. Qingsong Wen</a>.
+    Hi, I am Wentao Hu, a Ph.D. student at the
+    <a href="https://aml-cityu.github.io/" target="_blank">AML Lab</a>,
+    City University of Hong Kong, under the supervision of
+    <a href="https://zhaoxyai.github.io/" target="_blank">Prof. Xiangyu Zhao</a>.
   </p>
-  
+
   <p>
-    I am currently a Master’s student in the College of Computing and Data Science (CCDS) at 
-    Nanyang Technological University (NTU), advised by 
-    <a href="https://scholar.google.com/citations?user=YG0DFyYAAAAJ&hl=en" target="_blank">Prof. Hanwang Zhang</a> 
+    I received my M.Eng. from the College of Computing and Data Science (CCDS) at
+    Nanyang Technological University (NTU), where I was advised by
+    <a href="https://scholar.google.com/citations?user=YG0DFyYAAAAJ&hl=en" target="_blank">Prof. Hanwang Zhang</a>
     in <a href="https://mreallab.github.io/" target="_blank">MReaL Lab</a>. Before that, I earned my Bachelor’s degree in Statistics from Hunan University (HNU).
   </p>
   
