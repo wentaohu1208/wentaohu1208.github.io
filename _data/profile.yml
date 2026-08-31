@@ -35,9 +35,11 @@ short_bio: >-
     in <a href="https://mreallab.github.io/" target="_blank">MReaL Lab</a>. Before that, I earned my Bachelor’s degree in Statistics from Hunan University (HNU).
   </p>
 
-  <p style="color: #c0392b;">
-    My current research interest is <strong>LLM agents</strong>, including but not limited to
-    agentic RL, agent skills, and self-evolving agents.
+  <p>
+    My current research interest is <strong style="color: #c0392b;">LLM agents</strong>, including but not limited to
+    <strong style="color: #c0392b;">agentic RL</strong>,
+    <strong style="color: #c0392b;">agent skills</strong>, and
+    <strong style="color: #c0392b;">self-evolving agents</strong>.
   </p>
 
 
