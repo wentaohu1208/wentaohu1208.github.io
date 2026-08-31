@@ -34,7 +34,12 @@ short_bio: >-
     <a href="https://scholar.google.com/citations?user=YG0DFyYAAAAJ&hl=en" target="_blank">Prof. Hanwang Zhang</a>
     in <a href="https://mreallab.github.io/" target="_blank">MReaL Lab</a>. Before that, I earned my Bachelor’s degree in Statistics from Hunan University (HNU).
   </p>
-  
+
+  <p style="color: #c0392b;">
+    My current research interest is <strong>LLM agents</strong>, including but not limited to
+    agentic RL, agent skills, and self-evolving agents.
+  </p>
+
 
 
 portrait_url: /assets/images/photos/wentao_1.jpg
