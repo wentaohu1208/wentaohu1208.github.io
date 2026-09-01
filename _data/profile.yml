@@ -11,7 +11,7 @@ navbar_name: "Wentao Hu"
 email: "wentaohu4-c@my.cityu.edu.hk"
 # cv_link: ./assets/wthu_cs_phd_cv.pdf  # Uncomment to show the Curriculum Vitae link
 gscholar: cT_30hMAAAAJ
-github: wentaohu1208
+# github: wentaohu1208  # Uncomment to show the GitHub link
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
