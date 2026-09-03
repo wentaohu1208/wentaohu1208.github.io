@@ -14,9 +14,15 @@
         </div>
     </div>
 </footer>
-<!-- Visitor tracking with the map hidden. Requesting map.png is what records the
-     visit, so stats keep accruing on the MapMyVisitors dashboard even though
-     nothing is rendered. To show the map again, swap this back for the map.js
-     widget (script tag with id="mapmyvisitors" and a pixel width, e.g. w=300). -->
-<img src="//mapmyvisitors.com/map.png?d=Jflifk4djQtXQzjI3EMQVq4x-CkZDN958t8EqmYZUKM&cl=ffffff"
-     width="1" height="1" alt="" />
+<!-- Visitor map. Omitting `w` is deliberate: the widget then sizes itself to the
+     parent clamped to [180, 300]px, so it shrinks on narrow screens. Passing
+     `w=a` instead takes the parent width with no upper bound, which is what made
+     it fill the whole viewport. `t` is left at its default (m) so the pageview
+     count and date range are shown; t=tt hides the date, t=n hides both. To hide
+     the map but keep counting, swap this for <img src="//mapmyvisitors.com/map.png?d=…"
+     width="1" height="1">, which records the visit without rendering anything. -->
+<div style="text-align: center; padding: 8px 0 24px;">
+    <script type="text/javascript" id="mapmyvisitors"
+        src="//mapmyvisitors.com/map.js?d=Jflifk4djQtXQzjI3EMQVq4x-CkZDN958t8EqmYZUKM&cl=ffffff">
+    </script>
+</div>
